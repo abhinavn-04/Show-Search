@@ -1,0 +1,14 @@
+body{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+#submit{
+    margin: 10px;
+}
+div{
+    display: inline-block;
+}
+#reset{
+    margin-bottom: 10px;
+}
